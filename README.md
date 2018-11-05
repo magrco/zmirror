@@ -17,11 +17,9 @@ an http reverse proxy designed to automatically and completely mirror a website 
 **本人拒绝为任何商业或非法目的提供任何技术支持**  
 **本项目仅为科研人员更方便地查询知识而创建, 请勿大范围传播**
 
-若想看代码, 请看 `v0.30-dev` 这个分支  
-请不要大量使用...demo服务器马上要爆炸了- -|  
 
 
-## Demo
+## 例子
 
 * **Google**  
     * *网页搜索*   https://g.zmirrordemo.com  
@@ -34,9 +32,8 @@ an http reverse proxy designed to automatically and completely mirror a website 
 
 * **Youtube**  
     * *PC Only*  https://ytb-pc.zmirrordemo.com  
-    　　Youtube访问需要密码, 请解密此串得到密码`WmhlamlhbmdVbml2ZXJzaXR5` 如果您无法解密, 很抱歉Youtube镜像不对您开放  
-    * *Mobile Only* <del> https://ytb-mobile.zmirrordemo.com </del> 暂不开放  
-    　　Youtube Mobile 不支持iOS
+
+    * *Mobile Only*  https://ytb-mobile.zmirrordemo.com 
 * **Twitter**
     * *PC Only*  https://t-pc.zmirrordemo.com  
     * *Mobile Only*  https://t-mobile.zmirrordemo.com
@@ -240,3 +237,4 @@ All detects and rewrites are completely AUTOMATICALLY
 @arnofeng [ngx_google_deployment](https://github.com/arnofeng/ngx_google_deployment)  
 @imlinhanchao [ngx_proxy_wiki](https://github.com/imlinhanchao/ngx_proxy_wiki)  
 @joymufeng [play-google](https://github.com/joymufeng/play-google)  
+以上为copy，欢迎访问已经建好的例子：http://so.ax  更多技术分享：http://www.magrco.com
