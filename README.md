@@ -237,4 +237,5 @@ All detects and rewrites are completely AUTOMATICALLY
 @arnofeng [ngx_google_deployment](https://github.com/arnofeng/ngx_google_deployment)  
 @imlinhanchao [ngx_proxy_wiki](https://github.com/imlinhanchao/ngx_proxy_wiki)  
 @joymufeng [play-google](https://github.com/joymufeng/play-google)  
-以上为copy，欢迎访问已经建好的例子：http://so.ax  更多技术分享：http://www.magrco.com
+以上为copy，欢迎访问已经建好的例子：http://so.ax    
+更多技术分享：http://www.magrco.com
